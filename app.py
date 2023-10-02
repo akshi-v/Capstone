@@ -6,7 +6,7 @@ import random
 import string
 
 API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2-1"
-HEADERS = {"Authorization": "Bearer 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"}
+HEADERS = {"Authorization": "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"}
 
 
 # Function to send a request to the Hugging Face API
